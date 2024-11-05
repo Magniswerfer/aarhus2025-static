@@ -1,0 +1,42 @@
+{
+  "build_id": "b843f33e3241ce200e24093f2e4c8f2137fb125e",
+  "files": {
+    "main.js": [
+      "chunk-H3AVD6QE.js",
+      "chunk-GI7LLYGM.js",
+      "chunk-ULR4URCE.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-GI7LLYGM.js",
+      "chunk-YPYUOXKU.js",
+      "chunk-ULR4URCE.js"
+    ],
+    "island-counter.js": [
+      "chunk-H3AVD6QE.js",
+      "chunk-GI7LLYGM.js",
+      "chunk-YPYUOXKU.js",
+      "chunk-EMOVIG5Q.js",
+      "chunk-ULR4URCE.js"
+    ],
+    "chunk-H3AVD6QE.js": [],
+    "chunk-GI7LLYGM.js": [],
+    "island-history.js": [
+      "chunk-YPYUOXKU.js",
+      "chunk-EMOVIG5Q.js",
+      "chunk-ULR4URCE.js"
+    ],
+    "chunk-YPYUOXKU.js": [
+      "chunk-ULR4URCE.js"
+    ],
+    "island-navigation.js": [
+      "chunk-EMOVIG5Q.js",
+      "chunk-ULR4URCE.js"
+    ],
+    "chunk-EMOVIG5Q.js": [
+      "chunk-ULR4URCE.js"
+    ],
+    "chunk-ULR4URCE.js": [],
+    "metafile.json": []
+  }
+}
