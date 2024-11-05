@@ -4,31 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Aarhus 2025 Conference</title>
-  <link rel="stylesheet" href="styles.css">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <script>
-    // Preload main bundles
-    const files = ['main.js', 'chunk-ULR4URCE.js', 'chunk-YPYUOXKU.js'];
-    files.forEach(file => {
-      const preloadLink = document.createElement('link');
-      preloadLink.rel = 'modulepreload';
-      preloadLink.href = './' + file;
-      document.head.appendChild(preloadLink);
-    });
-  </script>
+  <link rel="stylesheet" href="/static/styles.css">
 </head>
 <body>
-  <div id="fresh-app" class="min-h-screen flex flex-col"></div>
-  <script id="fresh-client-data" type="application/json">
-    {"url":"/"}
-  </script>
-  <script type="module">
-    import { BrowserRouter } from "./chunk-ULR4URCE.js";
-    import { render } from "./chunk-YPYUOXKU.js";
-    import { start } from "./main.js";
-    
-    const root = document.getElementById("fresh-app");
-    start(root);
-  </script>
+  <div id="root"></div>
+  <script type="module" src="main.js"></script>
 </body>
 </html>

@@ -1,8 +1,8 @@
 {
-  "build_id": "d780ae35c9e71f26ec2401db24d7ca8932e30709",
+  "build_id": "81d998fa2b339868ce33504ad39834bd179fa04d",
   "files": {
     "main.js": [
-      "chunk-V65M5UA7.js",
+      "chunk-E5KB4XTI.js",
       "chunk-GI7LLYGM.js",
       "chunk-WLUXLVSZ.js"
     ],
@@ -13,13 +13,13 @@
       "chunk-WLUXLVSZ.js"
     ],
     "island-counter.js": [
-      "chunk-V65M5UA7.js",
+      "chunk-E5KB4XTI.js",
       "chunk-GI7LLYGM.js",
       "chunk-IWDGK3PD.js",
       "chunk-27GUQ5C5.js",
       "chunk-WLUXLVSZ.js"
     ],
-    "chunk-V65M5UA7.js": [],
+    "chunk-E5KB4XTI.js": [],
     "chunk-GI7LLYGM.js": [],
     "island-history.js": [
       "chunk-IWDGK3PD.js",
